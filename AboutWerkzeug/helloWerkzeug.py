@@ -1,6 +1,8 @@
-from werkzeug.wrappers import Response
+from werkzeug.wrappers import Response,Request
 
 def application(environ,start_response):
-    response = Response('Hello World!',mimetype='text/plain')
-    return response
+    request = Request(environ)
+    text = 'Hello %s' % request.args.get('name','World')
+    response = Response(text,mimetype='text/plain')
+    return response(environ,start_response)
 
