@@ -11,11 +11,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="helloWerkzeug.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="helloWerkzeug.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/helloWerkzeug.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shortly" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shortly/shortly">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="40" column="75" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wrappers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/werkzeug/wrappers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="2017" column="6" selection-start-line="2017" selection-start-column="6" selection-end-line="2017" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -33,6 +54,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/helloWerkzeug.py" />
+        <option value="$PROJECT_DIR$/shortly/shortly" />
       </list>
     </option>
   </component>
@@ -46,7 +68,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="492" />
+    <option name="x" value="378" />
     <option name="y" value="23" />
     <option name="width" value="1253" />
     <option name="height" value="857" />
@@ -63,6 +85,11 @@
             <path>
               <item name="AboutWerkzeug" type="b2602c69:ProjectViewProjectNode" />
               <item name="AboutWerkzeug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AboutWerkzeug" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AboutWerkzeug" type="462c0819:PsiDirectoryNode" />
+              <item name="shortly" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -112,7 +139,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="362" y="23" width="1253" height="857" extended-state="0" />
+    <frame x="515" y="23" width="1253" height="857" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
@@ -145,10 +172,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/werkzeug/wrappers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="2017" column="6" selection-start-line="2017" selection-start-column="6" selection-end-line="2017" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/helloWerkzeug.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shortly/shortly">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="40" column="75" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
